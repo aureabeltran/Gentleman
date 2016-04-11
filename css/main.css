@@ -52,13 +52,14 @@ p{
 	color: #3C3C3C;
 	margin-bottom: 0px;
 }
-ul{
-}
 .enlace-work{
 	color: #818181;
 }
 .enlace-work:hover{
 	color: black;
+}
+h4{
+	font-size: 16px;
 }
 input{
 	margin-top: 20px;
@@ -74,6 +75,15 @@ input{
 .main{
 	font-size: 16px;
 	padding-right: 23px;
+}
+#icon-eye{
+	margin-left: 50px;
+	color: #BBBBBB;
+	font-size: 13px;
+}
+#icon-heart{
+	color: #BBBBBB;
+	font-size: 13px;
 }
 .load-button{
 	padding-left:  45%;
