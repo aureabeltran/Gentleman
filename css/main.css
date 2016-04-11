@@ -6,9 +6,9 @@ header{
 	padding-top: 30px;
 }
 section{
-	padding-left: 50px;
-	padding-right: 50px;
-	border-bottom: 2px solid #AAAAAA;
+	padding-left: 80px;
+	padding-right: 80px;
+	border-bottom: 2px dashed #AAAAAA;
 }
 h2{
 	padding-left: 30%;
@@ -88,8 +88,48 @@ input{
 .load-button{
 	padding-left:  45%;
 }
-
-
+.twiter-icon{
+	margin-top: 50px;
+}
+.twiter-icon i{
+	font-size: 100px;
+	color: #A7A7A7;
+}
+.twiter-icon input{
+	margin-top: 0px;
+}
+h5{
+	font-size: 25px;
+	font-family: cursive;
+	margin: 90px 0px 50px 30px;
+	color: #575757;
+}
+.enlace-theme{
+	color: #ED3D62;
+}
 footer{
 	background-color: #323232;
+	padding: 30px 20px 30px 20px;
+}
+footer h1{
+	color: #9D9D9D;
+}
+footer h2{
+	color: #5F5F5F;
+	padding-left: 25px;
+	margin-right: 0px;
+	padding-right: 0px;
+}
+.p-footer{
+	font-size: 15px;
+	color: #D4D4D4;
+	padding: 5px 5px 5px 0px;
+	text-align: center;
+}
+h6{
+	color: #ED3D62;
+	font-size: 15px;
+}
+footer p{
+	color: #D4D4D4;
 }
